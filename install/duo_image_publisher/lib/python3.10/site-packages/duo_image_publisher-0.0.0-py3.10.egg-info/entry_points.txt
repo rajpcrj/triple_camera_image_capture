@@ -1,0 +1,4 @@
+[console_scripts]
+camera_node = duo_image_publisher.duo_image_publisher:main
+stereo_sync_node = duo_image_publisher.stereo_sync:main
+

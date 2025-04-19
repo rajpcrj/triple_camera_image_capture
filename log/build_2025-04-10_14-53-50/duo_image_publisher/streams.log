@@ -1,0 +1,23 @@
+[0.396s] Invoking command in '/home/raj/fams_vip/ros2_ws/duo_image_publisher': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/raj/fams_vip/ros2_ws/build/duo_image_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/raj/fams_vip/ros2_ws/install/duo_image_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/duo_image_publisher build --build-base /home/raj/fams_vip/ros2_ws/build/duo_image_publisher/build install --record /home/raj/fams_vip/ros2_ws/build/duo_image_publisher/install.log --single-version-externally-managed install_data
+[0.550s] running egg_info
+[0.551s] writing ../build/duo_image_publisher/duo_image_publisher.egg-info/PKG-INFO
+[0.551s] writing dependency_links to ../build/duo_image_publisher/duo_image_publisher.egg-info/dependency_links.txt
+[0.551s] writing entry points to ../build/duo_image_publisher/duo_image_publisher.egg-info/entry_points.txt
+[0.551s] writing requirements to ../build/duo_image_publisher/duo_image_publisher.egg-info/requires.txt
+[0.551s] writing top-level names to ../build/duo_image_publisher/duo_image_publisher.egg-info/top_level.txt
+[0.552s] reading manifest file '../build/duo_image_publisher/duo_image_publisher.egg-info/SOURCES.txt'
+[0.553s] writing manifest file '../build/duo_image_publisher/duo_image_publisher.egg-info/SOURCES.txt'
+[0.553s] running build
+[0.553s] running build_py
+[0.553s] running install
+[0.553s] running install_lib
+[0.554s] running install_data
+[0.554s] copying launch/dual_cameras.launch.py -> /home/raj/fams_vip/ros2_ws/install/duo_image_publisher/share/duo_image_publisher/launch
+[0.554s] running install_egg_info
+[0.555s] removing '/home/raj/fams_vip/ros2_ws/install/duo_image_publisher/lib/python3.10/site-packages/duo_image_publisher-0.0.0-py3.10.egg-info' (and everything under it)
+[0.555s] Copying ../build/duo_image_publisher/duo_image_publisher.egg-info to /home/raj/fams_vip/ros2_ws/install/duo_image_publisher/lib/python3.10/site-packages/duo_image_publisher-0.0.0-py3.10.egg-info
+[0.556s] running install_scripts
+[0.569s] Installing camera_node script to /home/raj/fams_vip/ros2_ws/install/duo_image_publisher/lib/duo_image_publisher
+[0.569s] Installing stereo_sync_node script to /home/raj/fams_vip/ros2_ws/install/duo_image_publisher/lib/duo_image_publisher
+[0.569s] writing list of installed files to '/home/raj/fams_vip/ros2_ws/build/duo_image_publisher/install.log'
+[0.584s] Invoked command in '/home/raj/fams_vip/ros2_ws/duo_image_publisher' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/raj/fams_vip/ros2_ws/build/duo_image_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/raj/fams_vip/ros2_ws/install/duo_image_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/duo_image_publisher build --build-base /home/raj/fams_vip/ros2_ws/build/duo_image_publisher/build install --record /home/raj/fams_vip/ros2_ws/build/duo_image_publisher/install.log --single-version-externally-managed install_data
